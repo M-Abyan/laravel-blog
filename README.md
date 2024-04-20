@@ -42,7 +42,7 @@ Follow these steps to set up and run the project locally:
 4. **Run Migrations**:
    - Execute Laravel migrations and also seeder(optional) to create the necessary database tables:
      ```bash
-     php artisan migrate
+     php artisan migrate --seeder
      ```
 
 5. **Compile Assets**:
