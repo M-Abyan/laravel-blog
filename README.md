@@ -57,3 +57,9 @@ Follow these steps to set up and run the project locally:
      php artisan serve
      ```
    - Access the application in your web browser at `http://localhost:8000`.
+
+![Screenshot 2024-04-20 135215](https://github.com/M-Abyan/laravel-blog/assets/95427240/02faef09-7089-4e83-8dfa-edda645cf3b9)
+![Screenshot 2024-04-20 135314](https://github.com/M-Abyan/laravel-blog/assets/95427240/28fce608-f675-43ea-9f3c-4dedbc31250c)
+![Screenshot 2024-04-20 135408](https://github.com/M-Abyan/laravel-blog/assets/95427240/81ea3ff7-b4a5-4155-a6a3-f704428d5098)
+
+
