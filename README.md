@@ -1,11 +1,12 @@
+
 # Laravel Inertia Blog
 Hi this is my project. I'm using laravel, Inertia Vue3, Tailwind, and Tiptap.
 
 ## Features
---Auth
---Likes
---Comments
---And Others
+- **Auth**
+- **Likes**
+- **Comments**
+- **And Others**
 
 ## Setup Instructions
 
