@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/typography": "^0.5.12",
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.38",
+        "tailwindcss": "^3.4.3",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@inertiajs/vue3": "^1.0.15",
+        "@tiptap/extension-underline": "^2.3.0",
+        "@tiptap/pm": "^2.3.0",
+        "@tiptap/starter-kit": "^2.3.0",
+        "@tiptap/vue-3": "^2.3.0",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "vue": "^3.4.21",
+        "vue-material-design-icons": "^5.3.0"
+    }
+}
